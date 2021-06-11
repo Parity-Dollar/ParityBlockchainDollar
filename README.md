@@ -36,6 +36,7 @@ The **Parity Blockchain Dollar (XDL)** is fully verified and audited on Ethersca
 Live Smart Contract [0x496266ff0876262b0177cef026a117abc24b2532](https://etherscan.io/address/0x496266ff0876262b0177cef026a117abc24b2532)
 
 [https://pairtydollar.xyz](https://paritydollar.xyz)
+
 [https://ibbt.io](https://ibbt.io)
 
 
