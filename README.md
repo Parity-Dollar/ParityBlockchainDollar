@@ -1,6 +1,6 @@
 ## Welcome to Parity Blockchain Dollar
 
-![image](https://miro.medium.com/max/400/1*RcgGMGg7cTBOzrfJLx-kdg.png) Parity Blockchain Dollar is the latest and greatest stablecoin on the market today, with industry insiders pegging it to be one of the potential significant performers over the next several years and well into the future. Why? 
+![image](https://miro.medium.com/max/400/1*RcgGMGg7cTBOzrfJLx-kdg.png)Parity Blockchain Dollar is the latest and greatest stablecoin on the market today, with industry insiders pegging it to be one of the potential significant performers over the next several years and well into the future. Why? 
 
 Because Parity Blockchain Dollar is a stablecoin unlike any other on the market today, this unique cryptocurrency is the only coin with a 100% decentralized chain of custody of other stablecoins and a 100% autonomous custodial transparency. For merchants across the globe and throughout the developing world, Parity Blockchain Dollar offers excellent protection and insulation from local currency malfunctions, single stablecoin price deviations, as well as greater buying power compared to other stablecoins or cryptocurrencies. Specifically beneficial to businesses who rely on international supply chains, Parity Blockchain Dollar’s decentralized chain of custody creates a seamless conversion and transfer of funds between the parties — meaning faster, more efficient, more profitable transactions.
 
