@@ -1,1 +1,1 @@
-** Parity Blockchain Dollar Smartcontract
+## Parity Blockchain Dollar Smartcontract
