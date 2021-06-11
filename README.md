@@ -8,7 +8,7 @@ Each XDL token has a corresponding 1:1 parity value of 7 stabecoins. The XDL is 
 
 ### Stablecoins in Custody
 
-![image](https://etherscan.io/token/images/centre-usdc_28.png)[USD Coin](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48?a=0x496266ff0876262b0177cef026a117abc24b2532)
+- ![image](https://etherscan.io/token/images/centre-usdc_28.png) [USD Coin](https://etherscan.io/address/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48?a=0x496266ff0876262b0177cef026a117abc24b2532)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
