@@ -1,8 +1,7 @@
 ## Welcome to Parity Blockchain Dollar
 
-You can use the [editor on GitHub](https://github.com/Parity-Dollar/ParityDollar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Collateralized: Each XDL token has a corresponding 1:1 parity value of 7 stabecoins. The XDL is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the XDL is issued the supply of the XDL has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the seven stablecoins in custody. We have selected to work the top seven stablecoins that have management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our XDL holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to XDL. The benefit of using XDL is the ability to choose which conversion best fits their daily price deviation. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -28,10 +27,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Parity-Dollar/ParityDollar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
