@@ -18,7 +18,7 @@ Each XDL token has a corresponding 1:1 parity value of 7 stabecoins. The XDL is 
 
 ## Escrow: 
 
-Each Parity Dollar (XDL) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the Parity Dollar system, eliminating the need for trust in central entities (albeit replacing that with the need for trust in third-party accounting). With seven stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price has remained stable since the XDL holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
+Each Parity Dollar (XDL) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the Parity Dollar system, eliminating the need for trust in central entities or trust in third-party accounting. With seven stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price remains in `parity` since the XDL holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
 
 ```markdown
 Syntax highlighted code block
