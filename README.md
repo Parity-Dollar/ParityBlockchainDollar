@@ -33,7 +33,7 @@ Each Parity Dollar (XDL) is backed by a 1:1 ratio that is held in an escrow acco
 
 The **Parity Blockchain Dollar (XDL)** is fully verified and audited on Etherscan.
 
-Live Smart Contract [0x496266ff0876262b0177cef026a117abc24b2532](https://etherscan.io/address/0x496266ff0876262b0177cef026a117abc24b2532)
+Live Smart Contract [0x496266ff0876262b0177cef026a117abc24b2532](https://etherscan.io/address/0x496266ff0876262b0177cef026a117abc24b2532 "Visit Parity Dollar Contract on Etherscan.io!")
 
 [https://pairtydollar.xyz](https://paritydollar.xyz "Visit Parity Dollar Site!")
 
