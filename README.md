@@ -1,5 +1,12 @@
 ## Welcome to Parity Blockchain Dollar
 
+Parity Blockchain Dollar is the latest and greatest stablecoin on the market today, with industry insiders pegging it to be one of the potential significant performers over the next several years and well into the future. Why? 
+
+Because Parity Blockchain Dollar is a stablecoin unlike any other on the market today, this unique cryptocurrency is the only coin with a 100% decentralized chain of custody of other stablecoins and a 100% autonomous custodial transparency. For merchants across the globe and throughout the developing world, Parity Blockchain Dollar offers excellent protection and insulation from local currency malfunctions, single stablecoin price deviations, as well as greater buying power compared to other stablecoins or cryptocurrencies. Specifically beneficial to businesses who rely on international supply chains, Parity Blockchain Dollar’s decentralized chain of custody creates a seamless conversion and transfer of funds between the parties — meaning faster, more efficient, more profitable transactions.
+
+We designed the Parity Blockchain Dollar as the stablecoin to set the community on fire and revolutionize how this type of cryptocurrency performs one-to-one parity against the US dollar-based Stablecoins. The Parity Blockchain Dollar has redefined the power and possibility of stablecoins and cryptocurrency forever in perfect for investments, business transactions, or personal wealth growth.
+
+If you are an exchange owner and want to intergrade the Parity Dollar into your business model you can send us a message at info@ibbt.io
 
 ## Collateralized: 
 
@@ -20,26 +27,13 @@ Each XDL token has a corresponding 1:1 parity value of 7 stabecoins. The XDL is 
 
 Each Parity Dollar (XDL) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the Parity Dollar system, eliminating the need for trust in central entities or trust in third-party accounting. With seven stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price remains in `parity` since the XDL holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
 ### Support or Contact
+
+The **Parity Blockchain Dollar (XDL)** is fully verified and audited on Etherscan.
+
+Live Smart Contract [0x496266ff0876262b0177cef026a117abc24b2532](https://etherscan.io/address/0x496266ff0876262b0177cef026a117abc24b2532)
+
+[https://pairtydollar.xyz](https://paritydollar.xyz)
+[https://ibbt.io](https://ibbt.io)
+
 
