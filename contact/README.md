@@ -1,0 +1,1 @@
+** Parity Blockchain Dollar Smartcontract
