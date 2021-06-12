@@ -12,7 +12,7 @@ If you are an exchange owner and want to intergrade the Parity Dollar into your 
 
 ## Collateralized: 
 
-Each XDL token has a corresponding 1:1 parity value of seven stabecoins. The XDL is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the XDL is issued the supply of the XDL has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the seven stablecoins in custody. We have selected to work with the top seven stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our XDL holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to XDL. The benefit of using XDL is the ability to choose which conversion best fits their daily price deviation. 
+Each XDL token has a corresponding 1:1 parity value of seven stabecoins. The XDL is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the XDL is issued the supply of the XDL has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the seven stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our XDL holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to XDL. The benefit of using XDL is the ability to choose which conversion best fits their daily price deviation. 
 
 
 ### Stablecoins in Custody
@@ -30,7 +30,7 @@ Each XDL token has a corresponding 1:1 parity value of seven stabecoins. The XDL
 
 ## Escrow: 
 
-Each Parity Dollar (XDL) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the Parity Dollar system, eliminating the need for trust in central entities or trust in third-party accounting. With seven stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price remains in `parity` since the XDL holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
+Each Parity Dollar (XDL) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the Parity Dollar system, eliminating the need for trust in central entities or trust in third-party accounting. With _eight_ stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price remains in `parity` since the XDL holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
 
 ### Support or Contact
 
