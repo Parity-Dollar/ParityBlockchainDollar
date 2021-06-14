@@ -23,9 +23,10 @@ How we define each type of Cryptofiat?
 Custodial - a USD token backed by USD held in custody by a third party
 Collateralized - a token pegged to USD backed by another asset or basket of assets
 
----------------------------------------------------------------- | ----------------
-![image](https://etherscan.io/token/images/centre-usdc_28.png)   | Custodial 
-![image](https://etherscan.io/token/images/MCDDai_32.png)        | Collateralized
+               coin                                            |      type
+-------------------------------------------------------------- | ----------------
+![image](https://etherscan.io/token/images/centre-usdc_28.png) | Custodial 
+![image](https://etherscan.io/token/images/MCDDai_32.png)      | Collateralized
 
 
 
