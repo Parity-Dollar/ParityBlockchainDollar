@@ -24,8 +24,7 @@ How we define each type of Cryptofiat?
 
 **Collateralized** - a token pegged to USD backed by another asset or basket of assets
 
-
-               coin                  |      type             
+            
                USD Coin              | Custodial
                Binance Dollar        | Custodial
                DAI                   | Collateralized
