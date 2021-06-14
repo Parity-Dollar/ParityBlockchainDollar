@@ -12,6 +12,22 @@ We designed the Parity Blockchain Dollar as the stablecoin to set the community 
 
 If you are an exchange owner and want to intergrade the Parity Dollar into your business model you can send us a message at info@ibbt.io
 
+## What are Cryptofiat Dollars?
+
+The Cryptofiat page measures the amount of coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, being utilized within the Parity Dolalr decentralized finance (DeFi) ecosystem. iBBT monitors these tokens on the Ethereum blockchain by pulling the total balance held by these smart contracts
+
+[CryptoFiat Supply](https://etherscan.io/tokenholdings?a=0x496266ff0876262b0177cef026a117abc24b2532)
+
+How we define each type of Cryptofiat?
+
+Custodial - a USD token backed by USD held in custody by a third party
+Collateralized - a token pegged to USD backed by another asset or basket of assets
+
+[![image](https://etherscan.io/token/images/centre-usdc_28.png)] | Custodial 
+[![image](https://etherscan.io/token/images/MCDDai_32.png)]      | Collateralized
+
+
+
 ## Collateralized: 
 
 Each XDL token has a corresponding 1:1 parity value of seven stabecoins. The XDL is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the XDL is issued the supply of the XDL has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the _eight_ stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our XDL holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to XDL. The benefit of using XDL is the ability to choose which conversion best fits their daily price deviation. 
