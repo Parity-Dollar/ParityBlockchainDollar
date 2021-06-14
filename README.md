@@ -32,6 +32,7 @@ How we define each type of Cryptofiat?
                PAX                   | Custodial
                HUSD                  | Custodial
                Gemini Dollar         | Custodial
+               Stable Coin           | Custodial
 
 
 ## Collateralized Basket:
