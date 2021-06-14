@@ -24,10 +24,10 @@ How we define each type of Cryptofiat?
 **Collateralized** - a token pegged to USD backed by another asset or basket of assets
 
 
-               coin                                            |      type        
--------------------------------------------------------------- | ----------------
-USD Coin | Custodial        |
-DAI      | Collateralized   |
+               coin                                              |      type        |       
+
+[![image](https://etherscan.io/token/images/centre-usdc_28.png)] | Custodial        |
+[![image](https://etherscan.io/token/images/MCDDai_32.png)]      | Collateralized   |
 
 
 
