@@ -16,7 +16,7 @@ We know that fiat paper money loses quality and needs to be destroyed and recirc
 
 As we mentioned above, the value of the parity dollar has a direct relationship to traditional assets (gold, fiat currency, money, or other groups of asset values) in a ratio of 1:1. Moreover, this ratio is maintained throughout the life of the parity dollar, regardless of market conditions. Thus, price fluctuations up or down are possible on the basket of stablecoins, but they are insignificant. 
 
-![image](https://github.com/Parity-Dollar/ParityBlockchainDollar/blob/master/images/XDL%20Image.png)
+![image](https://github.com/Parity-Dollar/ParityBlockchainDollar/blob/master/images/XDL%20Image%20V1.png)
 
 If you are an exchange owner and want to intergrade the Parity Dollar into your business model you can send us a message at info@ibbt.io
 
