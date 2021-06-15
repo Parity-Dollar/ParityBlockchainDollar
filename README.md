@@ -10,13 +10,13 @@ Because Parity Blockchain Dollar is a stablecoin unlike any other on the market 
 
 We designed the Parity Blockchain Dollar as the stablecoin to set the community on fire and revolutionize how this type of cryptocurrency performs one-to-one parity against the US dollar-based Stablecoins. The Parity Blockchain Dollar has redefined the power and possibility of stablecoins and cryptocurrency forever in perfect for investments, business transactions, or personal wealth growth.
 
-![image](https://github.com/Parity-Dollar/ParityBlockchainDollar/blob/master/images/XDL%20Image.png)
-
 ## Why The Parity Dollar Matter?
 
 We know that fiat paper money loses quality and needs to be destroyed and recirculated; this is no longer a physical phenomenon; it will go 100% digital. Add a group of stablecoins together that protects it against inflation, and that new digital currency becomes the parity dollar. In layman’s terms, parity dollars are the digital currency pegged to the cost of fiat money or any other assets. Ideally, the parity dollar price equals the cost of the corresponding fiat (for instance, $1 or the pegged value of the basket stablecoins). 
 
 As we mentioned above, the value of the parity dollar has a direct relationship to traditional assets (gold, fiat currency, money, or other groups of asset values) in a ratio of 1:1. Moreover, this ratio is maintained throughout the life of the parity dollar, regardless of market conditions. Thus, price fluctuations up or down are possible on the basket of stablecoins, but they are insignificant. 
+
+![image](https://github.com/Parity-Dollar/ParityBlockchainDollar/blob/master/images/XDL%20Image.png)
 
 If you are an exchange owner and want to intergrade the Parity Dollar into your business model you can send us a message at info@ibbt.io
 
