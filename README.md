@@ -63,7 +63,7 @@ Each XDL token has a corresponding 1:1 parity value of seven stabecoins. The XDL
 
 ## How the XDL Works
 
-The XDL Currency works around borderless around the world that deposit and withdrawal XDL currency. The smart contract has a $10K KYC/AML limit per transaction. Anyone (hedge funds, traders, etc.) who wants to facilitate an amount larger than $10K in one trench can contact the XDL team for more details.  
+The XDL Currency is borderless around the world that deposit and withdrawal XDL currency. The smart contract has a $10K KYC/AML limit per transaction. Anyone (hedge funds, traders, etc.) who wants to facilitate an amount larger than $10K in one trench can contact the XDL team for more details.  
 
 ![image](https://github.com/Parity-Dollar/ParityBlockchainDollar/blob/master/images/XDL%20X%20V1.png)
 
