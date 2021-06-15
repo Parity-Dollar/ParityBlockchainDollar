@@ -61,6 +61,12 @@ Each XDL token has a corresponding 1:1 parity value of seven stabecoins. The XDL
 
 [Visit Live Disclosure & Attestation](https://etherscan.io/tokenholdings?a=0x496266ff0876262b0177cef026a117abc24b2532)
 
+## How the XDL Works
+
+The XDL Currency works around borderless around the world that deposit and withdrawal XDL currency. The smart contract has a $10K KYC/AML limit per transaction. Anyone (hedge funds, traders, etc.) who wants to facilitate an amount larger than $10K in one trench can contact the XDL team for more details.  
+
+![image](https://github.com/Parity-Dollar/ParityBlockchainDollar/blob/master/images/XDL%20X%20V1.png)
+
 ## Escrow: 
 
 Each Parity Dollar (XDL) is backed by a 1:1 ratio that is held in an escrow account by respective parties. Qualifying institutions can participate in the Parity Dollar system, eliminating the need for trust in central entities or trust in third-party accounting. With _eight_ stablecoins daily price deviations may fluctuate for the individual stablecoins, but the price remains in `parity` since the XDL holder can choose to convert to a stablecoin under custody that has the most favorable price deviation.
