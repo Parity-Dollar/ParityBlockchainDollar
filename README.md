@@ -45,7 +45,7 @@ How we define each type of Cryptofiat?
 
 ## Collateralized Basket:
 
-Each XDL token has a corresponding 1:1 parity value of seven stabecoins. The XDL is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the XDL is issued the supply of the XDL has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the _eight_ stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our XDL holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to XDL. The benefit of using XDL is the ability to choose which conversion best fits their daily price deviation. 
+Each XDL token has a corresponding 1:1 parity value of eight stabecoins. The XDL is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the XDL is issued the supply of the XDL has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the _eight_ stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our XDL holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to XDL. The benefit of using XDL is the ability to choose which conversion best fits their daily price deviation. 
 
 ## Price Stabilization
 
