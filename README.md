@@ -22,7 +22,7 @@ If you are an exchange owner and want to intergrade the Parity Dollar into your 
 
 ## What are Cryptofiat Dollars?
 
-The Cryptofiat page measures the amount of coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, being utilized within the Parity Dolalr decentralized finance (DeFi) ecosystem. iBBT monitors these tokens on the Ethereum blockchain by pulling the total balance held by these smart contracts
+The Cryptofiat page measures the amount of coins or tokens pegged to the US Dollar, commonly referred to as stablecoins, being utilized within the Parity Dollar decentralized finance (DeFi) ecosystem. iBBT monitors these tokens on the Ethereum blockchain by pulling the total balance held by these smart contracts
 
 [CryptoFiat Supply](https://etherscan.io/tokenholdings?a=0x496266ff0876262b0177cef026a117abc24b2532)
 
