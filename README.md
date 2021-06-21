@@ -1,7 +1,7 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 ## Welcome to Parity Blockchain Dollar
-[![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/intergalacticcredits/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/Blockchain-Bank/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 > What is an Parity Dollar or (XDL)?  
 - Mainnet : [0x496266ff0876262b0177Cef026A117AbC24B2532](https://ethplorer.io/address/0x496266ff0876262b0177cef026a117abc24b2532#chart=candlestick)
