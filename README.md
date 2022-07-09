@@ -51,6 +51,8 @@ How we define each type of Cryptofiat?
 
 **NOTE**: Tether Dollar (symbol: USDT) is not permitted in the basket of assets. Tether's peg is fragile and it would end up been a Black Swan event
 
+>The case of **DAI**: Why is**DAI** allowed inthe basket of assets? The main reason is that DAI tends to be over-collateralized by 200% to 300%. That means that for every DAI that has been generated, there is at least 2$–3$ worth of ETH locked up in a CDP.
+
 ## Collateralized Basket:
 
 Each XDL token has a corresponding 1:1 parity value of eight stabecoins. The XDL is 100% decentralized, 100% autonomous, 100% Decentralized Attestation, and 100% Decentralized Managed Supply.  When the XDL is issued the supply of the XDL has an autonomous burning/issuing of the supply. This ensures the parity is always one-to-one with the value of the _eight_ stablecoins in custody. We have selected to work with the top _eight_ stablecoins with reliable management teams that maintain their own cash reserves against the independent value fluctuation of those stablecoins. This strategy allows our XDL holder to convert to any of the stablecoins, even if they originally selected to use a specific stablecoin conversion to XDL. The benefit of using XDL is the ability to choose which conversion best fits their daily price deviation. 
