@@ -49,6 +49,7 @@ How we define each type of Cryptofiat?
                Gemini Dollar         | Custodial
                Stable Coin           | Custodial
 
+**NOTE** USDT or Tether Dollar is not permitted in the basket of assets. Tether's peg is fragile and it would end up been a Black Swan event
 
 ## Collateralized Basket:
 
