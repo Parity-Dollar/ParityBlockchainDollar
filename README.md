@@ -51,7 +51,7 @@ How we define each type of Cryptofiat?
 
 **NOTE**: Tether Dollar (symbol: USDT) is not permitted in the basket of assets. Tether's peg is fragile and it would end up been a Black Swan event
 
->The case of **DAI**: Why is**DAI** allowed inthe basket of assets? The main reason is that DAI tends to be over-collateralized by 200% to 300%. That means that for every DAI that has been generated, there is at least 2$–3$ worth of ETH locked up in a CDP.
+>The case of **DAI**: Why is **DAI** allowed inthe basket of assets? The main reason is that DAI tends to be over-collateralized by 200% to 300%. That means that for every DAI that has been generated, there is at least 2$–3$ worth of ETH locked up in a CDP.
 
 ## Collateralized Basket:
 
